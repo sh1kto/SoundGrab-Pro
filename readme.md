@@ -2,6 +2,8 @@
 
 SoundGrab Pro is a simple video to audio converter software that allows you to extract audio tracks from your favorite videos. With its simple interface and advanced features, SoundGrab Pro offers a seamless and efficient solution for transforming videos into high-quality audio files.
 
+[![Downloads](https://img.shields.io/github/downloads/sh1kto/SoundGrab-Pro/total?color=blueviolet&style=for-the-badge)](https://github.com/sh1kto/SoundGrab-Pro/releases)
+![Lines of code](https://img.shields.io/tokei/lines/github/sh1kto/SoundGrab-Pro?color=blueviolet&label=lines%20of%20code&style=for-the-badge)
 ## Key Features
 
 - **Video to Audio Conversion:** Convert videos into audio files in various formats such as MP3, WAV, OGG, and more.
